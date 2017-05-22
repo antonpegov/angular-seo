@@ -1,6 +1,13 @@
 # Ang4Seo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+This is a greate tutorial from coursetro.com about SEO optimisation in Angular
+https://coursetro.com/posts/code/68/Make-your-Angular-App-SEO-Friendly-(Angular-4-+-Universal) 
+
+Generated with:
+ng new ang4-seo --routing
+
+Extra modules used (server-side rendering and animations):
+npm install --save @angular/platform-server @angular/animations
 
 ## Development server
 
